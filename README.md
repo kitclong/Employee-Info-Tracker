@@ -1,18 +1,16 @@
 # Employee-Info-Tracker
 ## About the employee generator:
 
-The purpose of this educational assignment was to create a command line application that takes employee info, and generates a html page that displays 
-summaries of the employees, creating a team list. Testing is also added to the code to render it maintanable. 
+The purpose of this educational assignment was to create a command line application that creates a interface to view and interact with information stored in a database.
 
 1. Present user with command line 
-2. User runs 'npm run test' to run tests, then 'node main.js' to run the file
-3. User is presented with employee selections and questions to fill
-4. User is presented the next question after 'enter'
-5. User is presented with a html card of employee info dynamically created
-6. When the user if finished, they are prompted if they want to add additional employees
-7. Selecting 'Yes' runs the user through the selections again
-8. Selecting 'No' ends the application
-9. User is presented back to original command line directory
+2. User runs 'npm start' to begin
+3. User is presented with selections to choose
+4. User is select choice and presses 'enter'
+5. User is presented with a table of information from a db
+6. When the user if finished, user is presented with additiona choices
+7. Selecting 'exit' will terminate
+8. User is brought back to CLI
 
 ![Screenshot of page](assets/pic2.PNG)
 ![Screenshot of page](assets/pic1.PNG)
