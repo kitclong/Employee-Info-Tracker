@@ -8,12 +8,13 @@ The purpose of this educational assignment was to create a command line applicat
 3. User is presented with selections to choose
 4. User is to select a choice and presses 'enter'
 5. User is presented with a table of information from a db
-6. When the user if finished, user is presented with additiona choices
+6. When the user if finished, user is presented with additional choices
 7. Selecting 'exit' will terminate
 8. User is brought back to CLI
 
 ![Screenshot of page](assets/pic2.PNG)
 ![Screenshot of page](assets/pic1.PNG)
+![Screenshot of page](assets/pic3.PNG)
 
 ## Built With:
 
