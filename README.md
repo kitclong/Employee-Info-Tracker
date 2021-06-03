@@ -12,7 +12,6 @@ The purpose of this educational assignment was to create a command line applicat
 7. Selecting 'exit' will terminate
 8. User is brought back to CLI
 
-![Screenshot of page](assets/pic2.PNG)
 ![Screenshot of page](assets/pic1.PNG)
 ![Screenshot of page](assets/pic4.PNG)
 ![Screenshot of page](assets/pic3.PNG)
