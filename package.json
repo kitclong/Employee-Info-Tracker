@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "console-table": "^0.1.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  },
+  "name": "employee-info-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "db/seed.sql",
+    "db":"db/schema.sql",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitclong/Employee-Info-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitclong/Employee-Info-Tracker/issues"
+  },
+  "homepage": "https://github.com/kitclong/Employee-Info-Tracker#readme"
+}
