@@ -6,7 +6,7 @@ The purpose of this educational assignment was to create a command line applicat
 1. Present user with command line 
 2. User runs 'npm start' to begin
 3. User is presented with selections to choose
-4. User is select choice and presses 'enter'
+4. User is to select a choice and presses 'enter'
 5. User is presented with a table of information from a db
 6. When the user if finished, user is presented with additiona choices
 7. Selecting 'exit' will terminate
